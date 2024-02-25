@@ -1,0 +1,2 @@
+# tesnettea
+tea testnet
